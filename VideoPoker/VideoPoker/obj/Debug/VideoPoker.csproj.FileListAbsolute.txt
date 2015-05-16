@@ -1,0 +1,2 @@
+C:\Users\Sisco\AppData\Local\Temporary Projects\VideoPoker\bin\Debug\VideoPoker.exe.config
+E:\GitHubCode\VideoPoker\VideoPoker\VideoPoker\bin\Debug\VideoPoker.exe.config
